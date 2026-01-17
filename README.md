@@ -54,12 +54,30 @@ I believe in active community involvement and leadership within the engineering 
 * **LMS Developer** - Open University of Kenya (Content Digitizer)
 
 ---
+## 🛠️ Technical Arsenal
 
-## 🏆 Achievements
-[![Trophies](https://github-profile-trophy.vercel.app/?username=MrNahadi&theme=flat&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-## 🔥 Activity
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrNahadi&theme=radical)
+### Development & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### Data Science & AI
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-Component-red?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-Prediction-orange?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-blue?style=for-the-badge)
+
+### Marine Engineering & CAD
+![AutoCAD](https://img.shields.io/badge/AutoCAD-Design-E44D26?style=for-the-badge&logo=autodesk&logoColor=white)
+![Inventor](https://img.shields.io/badge/Autodesk_Inventor-Modeling-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![Moodle](https://img.shields.io/badge/Moodle-LMS_Dev-F98012?style=for-the-badge&logo=moodle&logoColor=white)
 ---
 
 ### 📫 Connect with me
