@@ -81,5 +81,5 @@ I believe in active community involvement and leadership within the engineering 
 ---
 
 ### 📫 Connect with me
-* **LinkedIn:** [www.linkedin.com/in/farid-muigu-a67516241]
-* **Email:** [muigufarid@gmail.com]
+* **LinkedIn:** [Farid Muigu](www.linkedin.com/in/farid-muigu-a67516241)
+* **Email:** [muigufarid@gmail.com](muigufarid@gmail.com)
