@@ -80,6 +80,12 @@ I believe in active community involvement and leadership within the engineering 
 ![Moodle](https://img.shields.io/badge/Moodle-LMS_Dev-F98012?style=for-the-badge&logo=moodle&logoColor=white)
 ---
 
+## 📊 GitHub Stats:
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=MrNahadi-969&label=Visitors&countColor=%23263759)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrNahadi&bg_color=0d1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true&area=true&custom_title=Farid's%20Contribution%20Graph)
+
 ### 📫 Connect with me
 * **LinkedIn:** [Farid Muigu](www.linkedin.com/in/farid-muigu-a67516241)
 * **Email:** [muigufarid@gmail.com](muigufarid@gmail.com)
