@@ -4,8 +4,6 @@
 
 I am a 22-year-old final-year **Marine Engineering student** with a passion for bridging the gap between heavy engineering and modern technology. My work focuses on **Educational Technology (LMS)**, **Predictive Maintenance AI**, and **Computer-Aided Design (CAD)**.
 
-Currently, I serve as the **Head of Administration** for the UNESCO JKUAT Adhoc Committee.
-
 ---
 
 ## Technical Arsenal
